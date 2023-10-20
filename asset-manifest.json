@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Alphaware-Project/static/css/main.7efb374e.css",
+    "main.js": "/Alphaware-Project/static/js/main.6fe93757.js",
+    "static/js/787.41c1ab57.chunk.js": "/Alphaware-Project/static/js/787.41c1ab57.chunk.js",
+    "index.html": "/Alphaware-Project/index.html",
+    "main.7efb374e.css.map": "/Alphaware-Project/static/css/main.7efb374e.css.map",
+    "main.6fe93757.js.map": "/Alphaware-Project/static/js/main.6fe93757.js.map",
+    "787.41c1ab57.chunk.js.map": "/Alphaware-Project/static/js/787.41c1ab57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7efb374e.css",
+    "static/js/main.6fe93757.js"
+  ]
+}
