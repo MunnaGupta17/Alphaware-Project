@@ -1,0 +1,29 @@
+
+.cartProducts{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    justify-content: center;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    
+}
+
+.totalCartAmount{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #12f902;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.product-image{
+    width: 200px;
+    height: 200px;
+}

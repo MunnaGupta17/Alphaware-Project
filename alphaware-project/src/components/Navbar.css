@@ -1,0 +1,21 @@
+.NavbarContainer{
+    background-color: rgb(255, 0, 51);
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+
+
+.cart-count{
+    padding-top: 10px;
+    height: 60px;
+    display: flex;
+    font-size: 35px;
+}
+
+.cartIcon{
+    display: flex;
+}
