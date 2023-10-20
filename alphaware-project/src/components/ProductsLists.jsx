@@ -23,7 +23,7 @@ const ProductsLists = ({ addToCart }) => {
 
     axios
       .post(
-        "https://cors-anywhere.herokuapp.com/http://3.7.252.58:4001/product/getAllProduct",
+        "http://3.7.252.58:4001/product/getAllProduct",
         {
           limit: 100,
           page: 0,
